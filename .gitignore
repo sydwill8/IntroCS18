@@ -1,0 +1,9 @@
+#ignore directories in the the repo
+
+Project/
+Project2/
+
+#ignore file types in the repo
+*.txt
+*.csv
+*.jpg

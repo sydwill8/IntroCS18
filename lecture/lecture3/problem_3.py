@@ -1,0 +1,6 @@
+x = str(4)
+y = str(2)
+print(x, y)
+print(sep = " ")
+print(x+','+y)
+print(x+y)
